@@ -1,8 +1,6 @@
 ## Hi and welcome! 👋
 ### Very Glad to see you here!
 ---
-***
-___
 #### May the odds be with us!
 <!--
 **Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
