@@ -2,6 +2,8 @@
 ### Very Glad to see you here!
 ---
 #### May the odds be with us!
+
+![BG image for my page](https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/blob/main/bg.jpg)
 <!--
 **Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
