@@ -3,7 +3,7 @@
 ---
 #### May the odds be with us!
 
-Maybe one day I'll become a professional developer. We create some Very Useful app and sell it for :bitcoin: one billion bitcoins. :rocket:  Already ready to give away :bitcoin: 990 millions to my team.
+Maybe one day I'll become a professional developer. We create some Very Useful app and sell it for 	:moneybag: one billion bitcoins. :rocket:  Already ready to give away 	:moneybag: 990 millions bitcoins to my team.
 
 ![BG image for my page](https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/blob/main/bg.jpg)
 <!--
