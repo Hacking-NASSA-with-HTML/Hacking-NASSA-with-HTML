@@ -1,7 +1,7 @@
 ## Hi and welcome! 👋
 ### Very Glad to see you here!
 ---
-#### One day I'll become a professional developer. We'll create some Very Useful app and sell them for 💰 one billion bitcoins. 🚀 Already ready to give away 💰 990 million bitcoins to my team.
+### One day I'll become a professional developer. We'll create some Very Useful app and sell them for 💰 one billion bitcoins. 🚀 Already ready to give away 💰 990 million bitcoins to my team.
 
 ![BG image for my page](https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/blob/main/bg.jpg)
 <!--
