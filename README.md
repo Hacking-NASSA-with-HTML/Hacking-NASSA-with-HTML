@@ -1,4 +1,4 @@
-## Hi and welcome! 👋
+## Hi and welcome! 👋 :sparkling_heart:
 ### Very Glad to see you here!
 ---
 ### One day I'll become a professional developer. We'll create some Very Useful app and sell them for 💰 one billion bitcoins. 🚀 Already ready to give away 💰 990 million bitcoins to my team.
