@@ -4,7 +4,11 @@
 
 ### One day I'll become a professional developer. We'll create some Very Useful app and sell them for 💰 one billion bitcoins. 🚀 Already ready to give away 💰 990 million bitcoins to my team.
 
-![BG image for my page](https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/blob/main/bg.jpg)
+<!-- ![BG image for my page](https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/blob/main/bg.jpg) -->
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/4e0e66c9-c063-46ca-846e-003ad7fd56fa/deploy-status)](https://lucinda-news.netlify.app) -->
+[![BG image for my page](https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/blob/main/bg.jpg)](https://skyline.github.com/hacking-nassa-with-html/2022)
+
+
 <!--
 **Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
