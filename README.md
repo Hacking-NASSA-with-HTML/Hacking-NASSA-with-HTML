@@ -2,7 +2,7 @@
 ### Very Glad to see you here!
 ---
 
-### One day I'll become a professional developer. We'll create some Very Useful app and sell them for 💰 one billion bitcoins. 🚀 Already ready to give away 💰 990 million bitcoins to my team.
+### One day I'll become a professional developer. We'll create some Very Useful apps and sell them for 💰 one billion bitcoins. 🚀 Already ready to give away 💰 990 million bitcoins to my team.
 
 <!-- ![BG image for my page](https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/blob/main/bg.jpg) -->
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/4e0e66c9-c063-46ca-846e-003ad7fd56fa/deploy-status)](https://lucinda-news.netlify.app) -->
