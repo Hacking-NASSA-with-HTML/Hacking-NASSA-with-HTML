@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-## Ask Me Anything: 
+## Ask Me Anything :point_down:
 # https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML
