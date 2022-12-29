@@ -2,6 +2,22 @@
 ### Very Glad to see you here!
 ---
 
+Hi! My name is Vyacheslav, 
+
+and I am an advanced beginner who wants 
+
+to learn JS and make a living from it ASAP. 
+
+If your goal to start earning money ASAP follow me at 
+
+https://www.linkedin.com/in/vyacheslav-plekhanov/ and GitHub.
+
+And this is our slack Microverse Level Up community 
+
+https://join.slack.com/t/microverse-community/shared_invite/zt-1lxwrczi8-fUrv~mDMeYDYSOCm2iq72w 
+
+Let's learn Together!
+
 ### One day I'll become a professional developer. We'll create some Very Useful app and sell it for 💰 one million bitcoins. 🚀 Already ready to give away 💰 990 thousand bitcoins to my team.
 
 <!-- ![BG image for my page](https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/blob/main/bg.jpg) -->
