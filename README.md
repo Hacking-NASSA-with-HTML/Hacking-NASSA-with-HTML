@@ -24,5 +24,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
+
+Learn and Earn with me! 
+
+I like IT magic, cats, Bedazzled movie, Egyptian pyramids and Grand Canyon. 
+
+Not a flat earther, still sometimes I think we were created somewhere 1800 after the mudflood, 
+
+fan of The Truman Show and JonLevi YTube channel.
+
 ## Ask Me Anything In Discussions :point_down:
 ### https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/discussions/
