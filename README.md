@@ -49,5 +49,9 @@ Not a flat earther, still sometimes I think we were created somewhere 1800 after
 
 fan of The Truman Show and JonLevi YTube channel.
 
+And best wishes for our next adventures!
+
+May Your Code Always Works!
+
 ## Ask Me Anything In Discussions :point_down:
 ### https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/discussions/
