@@ -2,17 +2,17 @@
 ### Very Glad to see you here!
 ---
 
-##### Hi! My name is Vyacheslav, 
+### Hi! My name is Vyacheslav, 
 
-##### and I want to increase my connections. 
+### and I want to increase my connections. 
 
-##### I am an advanced beginner who wants  to learn JS, 
+### I am an advanced beginner who wants  to learn JS, 
 
-##### and make a living from it ASAP.  
+### and make a living from it ASAP.  
 
-##### If your goal is to start earning money 💲💸💰 ASAP too then follow me 
+### If your goal is to start earning money 💲💸💰 ASAP too then follow me 
 
-##### at https://www.linkedin.com/in/vyacheslav-plekhanov/ and here on GitHub.
+#### at https://www.linkedin.com/in/vyacheslav-plekhanov/ and here on GitHub.
 
 And this is our slack Microverse Level Up community 
 
