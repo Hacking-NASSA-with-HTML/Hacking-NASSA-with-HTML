@@ -2,15 +2,15 @@
 ### Very Glad to see you here!
 ---
 
-### Hi! My name is Vyacheslav, 
+### My name is Vyacheslav, 
 
 ### and I want to increase my connections. 
 
-### I am an advanced beginner who wants  to learn JS, 
+### I am an advanced beginner who wants to learn JS, 
 
 ### and make a living from it ASAP.  
 
-### If your goal is to start earning money 💲💸💰 ASAP too then follow me 
+### If your goal is to start earning money 💲💸💰 ASAP then follow me 
 
 #### at https://www.linkedin.com/in/vyacheslav-plekhanov/ and here on GitHub.
 
@@ -18,7 +18,7 @@ And this is our slack Microverse Level Up community
 
 https://join.slack.com/t/microverse-community/shared_invite/zt-1lxwrczi8-fUrv~mDMeYDYSOCm2iq72w 
 
-Let's learn Together!
+### Let's learn Together!
 
 ### One day I'll become a professional developer. We'll create some Very Useful app and sell it for 💰 one million bitcoins. 🚀 Already ready to give away 💰 990 thousand bitcoins to my team.
 
@@ -43,17 +43,17 @@ Here are some ideas to get you started:
 -->
 ---
 
-Learn and Earn with me! 
+### Learn and Earn with me! 
 
-I like IT magic, cats, Bedazzled movie, Egyptian pyramids and Grand Canyon. 
+### I like IT magic, cats, Bedazzled movie, Egyptian pyramids and Grand Canyon. 
 
-Not a flat earther, still sometimes I think we were created somewhere 1800 after the mudflood, 
+### Not a flat earther, still sometimes I think we were created somewhere 1800 after the mudflood, 
 
-fan of The Truman Show and JonLevi YTube channel.
+### fan of The Truman Show and JonLevi YTube channel.
 
-And best wishes for our next adventures!
+### And best wishes for our next adventures!
 
-May Your Code Always Works!
+### May Your Code Always Works!
 
 ## Ask Me Anything In Discussions :point_down:
 ### https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/discussions/
