@@ -16,7 +16,7 @@
 
 And this is our slack Microverse Level Up community 
 
-https://join.slack.com/t/microverse-community/shared_invite/zt-1lxwrczi8-fUrv~mDMeYDYSOCm2iq72w 
+#### https://join.slack.com/t/microverse-community/shared_invite/zt-1lxwrczi8-fUrv~mDMeYDYSOCm2iq72w 
 
 ### Let's learn Together!
 
