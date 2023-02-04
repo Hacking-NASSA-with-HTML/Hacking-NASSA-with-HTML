@@ -4,7 +4,7 @@
 
 ### My name is Vyacheslav, 
 
-### and I want to increase my connections. 
+### and I want to increase our connections. 
 
 ### I am an advanced beginner who wants to learn JS, 
 
