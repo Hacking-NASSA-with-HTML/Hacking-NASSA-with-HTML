@@ -14,10 +14,6 @@
 
 #### at https://www.linkedin.com/in/vyacheslav-plekhanov/ and here on GitHub.
 
-And this is our slack Microverse Level Up community 
-
-#### https://join.slack.com/t/microverse-community/shared_invite/zt-1nkjbh3uv-8jZIixtDJiEQMMOnUuISFg 
-
 ### Let's learn Together!
 
 ### One day I'll become a professional developer. We'll create some Very Useful app and sell it for 💰 one million bitcoins. 🚀 Already ready to give away 💰 990 thousand bitcoins to my team.
