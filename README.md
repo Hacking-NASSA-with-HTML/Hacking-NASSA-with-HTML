@@ -51,5 +51,11 @@ Here are some ideas to get you started:
 
 ### May Your Code Always Works!
 
+### What I'm doing now:
+
+- currently on the lookout for a new opportunities
+
+🌱 Enhancing my full-stack developer skills everyday
+
 ## Ask Me Anything In Discussions :point_down:
 ### https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/discussions/
