@@ -1,4 +1,4 @@
-## Hi and welcome! 👋 :sparkling_heart:
+<!-- ## Hi and welcome! 👋 :sparkling_heart:
 ### Very Glad to see you here!
 ---
 
@@ -16,7 +16,7 @@
 
 ### Let's learn Together!
 
-### One day I'll become a professional developer. We'll create some Very Useful app and sell it for 💰 one million bitcoins. 🚀 Already ready to give away 💰 990 thousand bitcoins to my team.
+### One day I'll become a professional developer. We'll create some Very Useful app and sell it for 💰 one million bitcoins. 🚀 Already ready to give away 💰 990 thousand bitcoins to my team. -->
 
 <!-- ![BG image for my page](https://github.com/Hacking-NASSA-with-HTML/Hacking-NASSA-with-HTML/blob/main/bg.jpg) -->
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/4e0e66c9-c063-46ca-846e-003ad7fd56fa/deploy-status)](https://lucinda-news.netlify.app) -->
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-### Learn and Earn with me! 
+<!-- ### Learn and Earn with me! -->
 
 ### I like IT magic, cats, Bedazzled movie, Egyptian pyramids and Grand Canyon. 
 
