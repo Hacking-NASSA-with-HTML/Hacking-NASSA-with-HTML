@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ### fan of The Truman Show and JonLevi YTube channel.
 
-### And best wishes for our next adventures!
+<!-- ### And best wishes for our next adventures! -->
 
 ### May Your Code Always Works!
 
